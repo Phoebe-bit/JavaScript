@@ -5,3 +5,4 @@
 // admin = name;
 // alert(admin);
 
+// console.log(40 + 50);
